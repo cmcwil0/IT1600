@@ -6,7 +6,7 @@
 ###### ^ Picture of Famous Climber Alex Honnold
 
 
-Rock climbing has been around for since the 1880s. The sport was born from traditional mountaneering.
+Rock climbing has been around for since the 1880s. The sport was born from traditional mountaneering. :mountain:
 
 ## README Page Here
-[a relative link](README.md)
+[link](README.md)
