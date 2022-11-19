@@ -8,9 +8,9 @@ Rock Climbing has a rich history and is a sport that has been rapidly growing in
 
 
 **List of Famous Climbers**
-    1. Alex Honnold
-    2. Tommy CaldWell
-    3. Chris Sharma
+1. Alex Honnold
+2. Tommy CaldWell
+3. Chris Sharma
 
 ## Home Page Here
 [link](Home.md)
