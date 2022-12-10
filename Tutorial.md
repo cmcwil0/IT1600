@@ -30,3 +30,9 @@ z = 1.2 - float
 
 v = True/False - Boolean
 
+
+## Information on Text Editors
+[Information](Informational.md)
+
+## README
+[README](README.md)

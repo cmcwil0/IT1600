@@ -21,3 +21,11 @@ IDE or Integrated Development Environment is a text editor with many types of fe
 2. [VsCode Community](https://visualstudio.microsoft.com/vs/community/))
 3. [Xcode](https://developer.apple.com/xcode/))
 
+
+
+## Tutorial on Text Editors 
+[Tutorial](Tutorial.md)
+
+## README
+[README](README.md)
+
