@@ -1,5 +1,5 @@
 # How To Use Plain Text Editors for Programming
-##### By: Caden McWilliams 
+#### By: Caden McWilliams 
 
 ![Simple Text Editor](https://play-lh.googleusercontent.com/Gb6Kux7qSOcYQJU2R7n8D360Z_GPV6wuij8hcFflk-niMkKP6MZNeUUzMK5CIj9PuQpM)
 
@@ -7,9 +7,9 @@ Plain Text Editors are used throughout the tech world as a way to create and edi
 
 
 ## Tutorial on Text Editors 
-[link](Tutorial.md)
+[Tutorial](Tutorial.md)
 
 
 ## Information on Text Editors
-[link](Informational.md)
+[Information](Informational.md)
 
